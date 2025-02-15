@@ -22,12 +22,18 @@ For **static recordings**, I prefer **VBR**, as it provides a **smaller file siz
 
 我個人在動態影片會使用10M的轉碼，靜態拍攝使用VBR
 
-## 📌 Usage / 使用說明
+📌 Usage / 使用說明
 
-Simply **drag and drop** your video file onto `10M.bat` or `VBR.bat`, and it will be automatically converted.  
-Alternatively, you can **run `10M.bat` or `VBR.bat` directly**, and it will **convert all `.mp4` files in the current folder**.  
+Simply drag and drop your video file onto convert.bat, and it will prompt you to choose between 10M or VBR conversion mode.
+Alternatively, you can run convert.bat directly, and it will convert all .mp4 files in the current folder after selecting a mode.
 
----
+Conversion Modes:
+🔹 10M: Best for YouTube uploads (1080P 60fps, maximum quality).
+🔹 VBR: Ideal for videos with mostly static scenes, reducing file size while maintaining quality.
 
-只需 **將檔案拖曳到 `10M.bat` 或 `VBR.bat`**，影片就會自動進行轉換。  
-或者你可以 **直接執行 `10M.bat` 或 `VBR.bat`**，它會 **自動轉換這個資料夾內的所有 `.mp4` 檔案**。
+只需 將檔案拖曳到 convert.bat，系統會詢問你要選擇 10M 或 VBR 模式，然後開始轉檔。
+或者你可以 直接執行 convert.bat，它會 在選擇模式後，自動轉換這個資料夾內的所有 .mp4 檔案。
+
+轉換模式說明：
+🔹 10M：適合 YouTube 1080P 60fps 上傳的最高畫質。
+🔹 VBR：適合 靜態畫面較多的影片，能有效縮小容量並保持畫質。
