@@ -6,6 +6,7 @@ It helps people who need to back up videos but **don't want high-quality files t
 There are **two compression methods** available:  
 
 1️⃣ **10,000 kbps for YouTube (60fps highest quality for uploads)**  
+
 2️⃣ **VBR (Variable Bitrate) for static footage, reducing file size without significant quality loss**  
 
 For **dynamic videos**, I personally use **10Mbps encoding**.  
@@ -18,6 +19,7 @@ For **static recordings**, I prefer **VBR**, as it provides a **smaller file siz
 有兩種壓縮方式
 
 1️⃣一種為10000kbps給Youtube 60fps上傳最高畫質使用
+
 2️⃣另一種是VBR適合變動畫面比較小的靜態攝影 可以讓影片縮得更小 畫質不會相差太多
 
 我個人在動態影片會使用10M的轉碼，靜態拍攝使用VBR
@@ -29,6 +31,7 @@ Alternatively, you can run convert.bat directly, and it will convert all .mp4 fi
 
 Conversion Modes:
 🔹 10M: Best for YouTube uploads (1080P 60fps, maximum quality).
+
 🔹 VBR: Ideal for videos with mostly static scenes, reducing file size while maintaining quality.
 
 只需 將檔案拖曳到 convert.bat，系統會詢問你要選擇 10M 或 VBR 模式，然後開始轉檔。
@@ -36,4 +39,5 @@ Conversion Modes:
 
 轉換模式說明：
 🔹 10M：適合 YouTube 1080P 60fps 上傳的最高畫質。
+
 🔹 VBR：適合 靜態畫面較多的影片，能有效縮小容量並保持畫質。
