@@ -30,6 +30,7 @@ Simply drag and drop your video file onto convert.bat, and it will prompt you to
 Alternatively, you can run convert.bat directly, and it will convert all .mp4 files in the current folder after selecting a mode.
 
 Conversion Modes:
+
 🔹 10M: Best for YouTube uploads (1080P 60fps, maximum quality).
 
 🔹 VBR: Ideal for videos with mostly static scenes, reducing file size while maintaining quality.
@@ -38,6 +39,7 @@ Conversion Modes:
 或者你可以 直接執行 convert.bat，它會 在選擇模式後，自動轉換這個資料夾內的所有 .mp4 檔案。
 
 轉換模式說明：
+
 🔹 10M：適合 YouTube 1080P 60fps 上傳的最高畫質。
 
 🔹 VBR：適合 靜態畫面較多的影片，能有效縮小容量並保持畫質。
