@@ -14,9 +14,7 @@ For dynamic videos, I personally use 10Mbps encoding.
 For static recordings, I prefer VBR, as it provides a smaller file size while maintaining good quality.
 
 這是一個簡單的影片壓縮工具，現在只需要安裝FFmpeg，不再需要Python！
-
 適合備份影片但不想佔用太多硬碟空間的使用者。
-
 提供兩種壓縮模式：
 
 1️⃣ 10M (10,000 kbps)：適合 YouTube 60fps 高畫質上傳
@@ -28,9 +26,7 @@ For static recordings, I prefer VBR, as it provides a smaller file size while ma
 📌 Usage / 使用說明
 
 Simply drag and drop your MP4 file onto convert.bat, and it will prompt you to choose between 10M or VBR conversion mode.
-
 Alternatively, you can run convert.bat directly, and it will convert all .mp4 files in the current folder after selecting a mode.
-
 Conversion Modes / 轉換模式
 
 🔹 10M → Best for YouTube uploads (1080P 60fps, maximum quality).
