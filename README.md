@@ -7,6 +7,7 @@
 提供兩種壓縮模式：
 
 1️⃣ 10M (10,000 kbps)：適合 YouTube 60fps 高畫質上傳
+
 2️⃣ VBR (可變位元率)：適合 靜態畫面較多的影片，可有效縮小容量並保持畫質
 
 我個人會在動態影片使用10M的轉碼，靜態拍攝使用VBR，因為它能大幅減小檔案大小，且畫質影響不大。
@@ -17,7 +18,9 @@
 或者，你也可以直接執行 convert.bat，它會在選擇模式後，自動轉換這個資料夾內的所有 .mp4 檔案。
 
 轉換模式
+
 🔹 10M → 適合 YouTube 1080P 60fps 上傳的最高畫質。
+
 🔹 VBR → 適合 靜態畫面較多的影片，能有效縮小容量並保持畫質。
 
 👉 使用前請先安裝 FFmpeg 並加入 PATH！
@@ -28,6 +31,7 @@
 請將影片和 BAT 檔案放在同一個資料夾，執行 BAT 轉檔後再試試看！
 
 🎥 Video Compressor for 1080P
+
 📌 Introduction
 
 This is a simple video compression tool using FFmpeg, no need for Python!
@@ -36,6 +40,7 @@ It helps you reduce video file size while keeping good quality, perfect for back
 There are two compression methods available:
 
 1️⃣ 10,000 kbps for YouTube (60fps highest quality for uploads)
+
 2️⃣ VBR (Variable Bitrate) for static footage, reducing file size without significant quality loss
 
 For dynamic videos, I personally use 10Mbps encoding.
