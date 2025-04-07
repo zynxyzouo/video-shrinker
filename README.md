@@ -51,3 +51,8 @@ Experiencing lag in Premiere Pro when importing videos?
 → Use ConvertToH264 mode and try again!
 
 🚀 Now, just FFmpeg + BAT script = Quick and easy video compression!
+
+
+This application uses FFmpeg (LGPLv2.1), a free software project for audio and video processing.
+FFmpeg binary is included under the terms of the LGPL.
+Source code of FFmpeg can be obtained from https://ffmpeg.org
