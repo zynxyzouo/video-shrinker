@@ -53,6 +53,14 @@ Experiencing lag in Premiere Pro when importing videos?
 🚀 Now, just FFmpeg + BAT script = Quick and easy video compression!
 
 
-This application uses FFmpeg (LGPLv2.1), a free software project for audio and video processing.
-FFmpeg binary is included under the terms of the LGPL.
-Source code of FFmpeg can be obtained from https://ffmpeg.org
+## License
+
+This project is licensed under the GNU General Public License v3.0.
+
+It includes FFmpeg (GPLv3) binaries from the BtbN build repository:
+https://github.com/BtbN/FFmpeg-Builds
+
+FFmpeg is a free software project for audio and video processing, licensed under GPLv3.
+The included FFmpeg binary is redistributed under the terms of the GPL.
+
+See `FFMPEG_LICENSE.txt` for more license information.
