@@ -1,0 +1,17 @@
+This software includes FFmpeg, a free and open-source multimedia framework.
+
+The FFmpeg binary included in this distribution was downloaded from:
+https://github.com/BtbN/FFmpeg-Builds
+File used: ffmpeg-master-latest-win64-gpl-shared.zip
+
+FFmpeg is licensed under the GNU General Public License v3.0 (GPLv3).
+Under the terms of this license, any software that includes FFmpeg must also be licensed under GPL-compatible terms.
+
+As this project distributes a GPL build of FFmpeg, the entire project must be licensed under GPLv3 or a compatible license.
+
+You can find more information about FFmpeg and its license here:
+- Official FFmpeg website: https://ffmpeg.org/
+- FFmpeg license page: https://ffmpeg.org/legal.html
+- BtbN build repository: https://github.com/BtbN/FFmpeg-Builds
+
+FFmpeg is copyright (c) the FFmpeg developers.
